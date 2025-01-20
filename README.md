@@ -1,0 +1,1 @@
+MSF-WWVB_60Hz_driver: Micropython driver for an MST/WWVB 60hZ ferrite antenna to collect MST Anthorn (NPL national time signal) radio signal. Written for the RPi Pico to run in the background on the second core, but the driver function will work standalone
